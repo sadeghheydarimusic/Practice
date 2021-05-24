@@ -2,4 +2,8 @@ hi
 today monday
 my name is sadegh
 25
+<<<<<<< HEAD
 live to malayer-m
+=======
+live to malayer
+>>>>>>> master
